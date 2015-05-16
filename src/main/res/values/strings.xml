@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQL Date Change</string>
+
+    <string name="name">Name</string>
+    <string name="add_item">Add Item</string>
+    <string name="next_date">Next Date</string>
+    <string name="prev_date">Prev Date</string>
+</resources>
